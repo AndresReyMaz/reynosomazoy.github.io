@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Edit this page with your own information.
+This is information about me.
